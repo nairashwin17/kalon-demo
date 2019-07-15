@@ -15,41 +15,88 @@
                         <h1>collections</h1>
                         <div class="cards">
                             <div class="card50">
-                                <div class="carddata50 card1">
+                                <div class="carddata50 card1 overlay">
                                     <h1>Solena Maya</h1>
                                     <p>Lorem Ipsum is simply dummy text</p>
+
+                                    <div class="overlay-data">
+                                        <div class="odata50">
+                                            <h1>Solena Maya</h1>
+                                            <p>Lorem Ipsum is simply dummy text</p>
+                                        </div>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="card25">
-                                <div class="carddata25 card2">
+                                <div class="carddata25 card2 overlay">
                                     <h1>Solena Maya</h1>
                                     <p>Lorem Ipsum is simply dummy text</p>
+                                    <div class="overlay-data">
+                                        <div class="odata25">
+                                            <h1>Solena Maya</h1>
+                                            <p>Lorem Ipsum is simply dummy text</p>
+                                        </div>
+                                        </a>
+                                    </div>
                                 </div>  
                             </div>
                             <div class="card25">
-                                <div class="carddata25 card3">
+                                <div class="carddata25 card3 overlay">
                                     <h1>Solena Maya</h1>
                                     <p>Lorem Ipsum is simply dummy text</p>
+
+                                    <div class="overlay-data">
+                                        <div class="odata25">
+                                            <h1>Solena Maya</h1>
+                                            <p>Lorem Ipsum is simply dummy text</p>
+                                        </div>
+                                        </a>
+                                    </div>
                                 </div> 
                             </div>
                         </div>
                         <div class="cards">
                             <div class="card25">
-                                <div class="carddata25 card4">
+                                <div class="carddata25 card4 overlay">
                                     <h1>Solena Maya</h1>
                                     <p>Lorem Ipsum is simply dummy text</p>
+
+                                    <div class="overlay-data">
+                                        <div class="odata25">
+                                            <h1>Solena Maya</h1>
+                                            <p>Lorem Ipsum is simply dummy text</p>
+                                        </div>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="card25">
-                                <div class="carddata25 card5">
+                                <div class="carddata25 card5 overlay">
                                     <h1>Solena Maya</h1>
                                     <p>Lorem Ipsum is simply dummy text</p>
+
+                                    <div class="overlay-data">
+                                        <div class="odata25">
+                                            <h1>Solena Maya</h1>
+                                            <p>Lorem Ipsum is simply dummy text</p>
+                                        </div>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="card50">
-                                <div class="carddata50 card6">
+                                <div class="carddata50 card6 overlay">
                                     <h1>Solena Maya</h1>
                                     <p>Lorem Ipsum is simply dummy text</p>
+
+                                     <div class="overlay-data">
+                                        <div class="odata50">
+                                            <h1>Solena Maya</h1>
+                                            <p>Lorem Ipsum is simply dummy text</p>
+                                        </div>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
