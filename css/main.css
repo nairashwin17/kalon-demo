@@ -66,6 +66,11 @@ img{
 }
 .inline-icon{
     margin: 20px auto;
+    font-size: 18px;
+}
+.inline-icon a i{
+    color: #fff;
+    margin: 5px 5px;
 }
 .search{
     background: transparent;
@@ -359,10 +364,10 @@ p{
 }
 .send{
     display: inline-block;
-    border: none;
+    border: 1px solid #F9E9C1;
     background: #F9E9C1;
     color: #001930;
-    padding: 2px 15px 6px;
+    padding: 2px 15px 4px;
     font-size: 20px;
     margin-left: -5px;
 }
@@ -398,4 +403,51 @@ p{
 .overlay .odata25 h1 , .overlay .odata25 p{
     color: #F9E9C1;
 }
-  
+
+.collection-wrapper{
+    background: url('../img/Artboard28.png');
+    background-size:cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    padding: 40px 0px;
+}
+.collection-box{
+    padding: 0px 8px;
+}
+.collection-box h4{
+    font-family: 'gothamlight';
+    font-weight: 600;
+    color: #001930;
+    font-size: 16px;
+    margin: 15px auto 5px;
+}
+.collection-box p{
+    font-family: 'gothamlight';
+    color: #001930;
+    font-size: 14px;
+    margin: 0px auto 25px;
+}
+.no-pd{
+    padding: 0px;
+}
+.sort{
+    border-radius: 0px;
+    background: transparent;
+    border: 1px solid #001930;
+    color: #001930;
+    margin: 15px auto 40px -8px;
+    width: 90%;
+    float: left;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'gothamlight';
+}
+.showresult{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'gothamlight';
+    margin: 20px auto;
+    color: #001930;
+    font-weight: 600;
+    text-align: right;
+}

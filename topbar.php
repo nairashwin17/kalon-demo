@@ -9,7 +9,17 @@
                     <img src="img/Kalon Logo.png" alt="" class="kalonlogo" />
                 </div>
                 <div class="col-md-4">
-                    <p class="inline-icon"><a href="#" ><img src="img/cartwhite.png" class="topicons" alt=""></a>&nbsp;<a href="#"><img src="img/account.png" alt="" class="topicons"></a></p>
+                    <p class="inline-icon">
+                    <a href="#" ><i class="fa fa-facebook"></i></a>
+                    &nbsp;
+                    <a href="#"><i class="fa fa-instagram"></i></a>
+                    &nbsp;
+                    <a href="#"><i class="fa fa-youtube"></i></a>
+                    &nbsp;
+                    <a href="#"><i class="fa fa-cart-plus"></i></a>
+                    &nbsp;
+                    <a href="#"><i class="fa fa-user-circle"></i></a>
+                    </p>
                 </div>
             </div>
         </div>
