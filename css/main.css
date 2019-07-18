@@ -371,6 +371,9 @@ p{
     font-size: 20px;
     margin-left: -5px;
 }
+.topspacer{
+    margin-top: 174px;
+}
 
 /*overlay*/
 .overlay {
@@ -422,6 +425,29 @@ p{
     margin: 15px auto 5px;
 }
 .collection-box p{
+    font-family: 'gothamlight';
+    color: #001930;
+    font-size: 14px;
+    margin: 0px auto 25px;
+}
+.lookbook-wrapper{
+    background: url('../img/Artboard28.png');
+    background-size:cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    padding: 40px 0px;
+}
+.lookbook-box{
+    padding: 10px;
+}
+.lookbook-box h4{
+    font-family: 'gothamlight';
+    font-weight: 600;
+    color: #001930;
+    font-size: 16px;
+    margin: 15px auto 5px;
+}
+.lookbook-box p{
     font-family: 'gothamlight';
     color: #001930;
     font-size: 14px;
