@@ -3,10 +3,10 @@
         <a href="home.php">
             <li>HOME</li>
         </a>
-        <a href="home.php">
-            <li>ABOUT</li>
+        <a href="latest_news.php">
+            <li>OUR STORY</li>
         </a>
-        <a href="collections.php">
+        <a href="collection.php">
             <li>JEWELRY</li>
         </a>
         <a href="lookbook.php">

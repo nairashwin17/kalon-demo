@@ -77,7 +77,7 @@ img{
     font-size: 18px;
 }
 .inline-icon a i{
-    color: #fff;
+    color: #f9ebc5;
     margin: 5px 5px;
 }
 .search{
@@ -171,7 +171,8 @@ img{
 .card50{
     max-width: 50%;
     flex: 50%;
-    padding: 5px;
+    margin: 5px;
+    overflow: hidden;
 }
 .card25{
     max-width: 25%;
@@ -211,7 +212,7 @@ img{
 }
 .carddata50{
     padding: 200px 0px 25px;
-    transition: transform .2s;
+    transition: transform 0.9s;
 }
 .carddata50:hover{
     transform: scale(1.1);
