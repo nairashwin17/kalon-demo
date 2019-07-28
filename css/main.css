@@ -3,8 +3,8 @@
     src: url('../fonts/FELIXTI.TTF');
   }
 @font-face {
-font-family: 'gothamlight';
-src: url('../fonts/Gotham-Light.otf');
+    font-family: 'gothamlight';
+    src: url('../fonts/Gotham-Light.otf');
 }
 *{
     margin: 0;
@@ -89,6 +89,7 @@ img{
     outline: none;
     border-bottom:1px solid #ddd;
 }
+
 .searchbar{
     margin: 10px auto;
 }
@@ -212,9 +213,8 @@ img{
 }
 .carddata50{
     padding: 200px 0px 25px;
-    transition: transform 0.9s;
 }
-.carddata50:hover{
+.carddata50 img:hover{
     transform: scale(1.1);
 }
 .carddata25 h1{
@@ -513,3 +513,123 @@ p{
     font-weight: 600;
     text-align: right;
 }
+.login-wrapper{
+    height:450px;
+    display: flex;
+    width: 80%;
+    margin: 130px auto 0px;
+    justify-content: center;
+    align-items: center;
+}
+.register-wrapper{
+    height:450px;
+    display: flex;
+    width: 80%;
+    margin: 130px auto 0px;
+    justify-content: center;
+    align-items: center;
+}
+.loginbox{
+    width:80%;
+    margin:auto;
+    background: #001930;
+    color: #fff;
+    padding: 40px;
+}
+.loginpage{
+    background: url('../img/Artboard28.png');
+    background-size:cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+.registerpage{
+    background: #000;
+    color:#fff;
+}
+.login{
+    border-right: 1px solid #fff;
+}
+.login h2{
+    font-size: 21px;
+    text-transform: uppercase;
+    font-family: 'gothamlight';
+}
+.register{
+    border-right: 1px solid #fff;
+}
+.register h2{
+    font-size: 21px;
+    text-transform: uppercase;
+    font-family: 'gothamlight';
+}
+.signin h2{
+    font-size: 21px;
+    text-transform: uppercase;
+    font-family: 'gothamlight';
+}
+#newsletter{
+    margin:30px auto 10px;;
+}
+.newsletterspan{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: 'gothamlight';
+}
+.newcust p{
+    font-size: 14px;
+    font-family: 'gothamlight';
+}
+.newcust h2{
+    font-size: 21px;
+    text-transform: uppercase;
+    font-family: 'gothamlight';
+}
+.login .logininputs{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px;
+    margin-bottom: 15px;
+    padding: 10px 0px;
+    font-family: 'gothamlight';
+    width:80%;
+}
+.register .logininputs{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px;
+    margin-bottom: 15px;
+    padding: 10px 0px;
+    font-family: 'gothamlight';
+    width:80%;
+}
+.signin .logininputs{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px;
+    margin-bottom: 15px;
+    padding: 10px 0px;
+    font-family: 'gothamlight';
+    width:80%;
+}
+.signin{
+    padding:30px 50px;
+}
+.register{
+    padding:30px 50px;
+}
+.p25{
+    padding: 25px 0px;
+}
+.newcust h2{
+    padding:0px 25px;
+}
+.newcust p{
+    padding:30px 25px;
+}
+.newac{
+    margin:0px 25px;
+}
+
