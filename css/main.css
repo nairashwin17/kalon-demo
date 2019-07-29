@@ -521,6 +521,34 @@ p{
     justify-content: center;
     align-items: center;
 }
+.changepassword-wrapper{
+    height: 500px;
+    display: flex;
+    width: 100%;
+    margin: 130px auto 0px;
+    justify-content: center;
+    align-items: center;
+}
+.profilepic{
+    background: #001930;
+    color: #fff;
+    height: 200px;
+}
+.profiledetails{
+    background: #001930;
+    color: #fff;
+    height: 205px;
+}
+.profiledata{
+    background: #001930;
+    color: #fff;
+    height: 430px;
+}
+.userdata{
+    background: #001930;
+    color: #fff;
+    height: 430px;
+}
 .register-wrapper{
     height:450px;
     display: flex;
@@ -537,6 +565,12 @@ p{
     padding: 40px;
 }
 .loginpage{
+    background: url('../img/Artboard28.png');
+    background-size:cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+.changepassword{
     background: url('../img/Artboard28.png');
     background-size:cover;
     background-repeat: no-repeat; 
