@@ -6,7 +6,7 @@
                     <div class="searchbar"><span class="fa fa-search"></span><input type="text" placeholder="Search..."  class="search "/></div>
                 </div>
                 <div class="col-md-4">
-                    <a href="home.php"><img src="img/Kalon Logo.png" alt="" class="kalonlogo" /></a>
+                    <a href="home.php"><img src="img/Kalonlogo.png" alt="" class="kalonlogo" /></a>
                 </div>
                 <div class="col-md-4">
                     <p class="inline-icon">
