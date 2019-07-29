@@ -346,6 +346,22 @@ p{
     font-family: 'gothamlight';
     font-size: 12px;
 }
+.fullwidth{
+    width: 100%;
+    display: inline-block;
+}
+.cartproduct{
+    width: 55%;
+    float: left;
+    background: rgb(0, 25, 48,0.8);
+    height:450px;
+}
+.cartright{
+    width: 45%;
+    float: left;
+    background:#001930;
+    height: 450px;
+}
 .story{
     padding: 90px 40px 65px;
 }
@@ -408,7 +424,7 @@ p{
     margin-left: -5px;
 }
 .topspacer{
-    margin-top: 149px;
+    margin-top: 131px;
 }
 
 /*overlay*/
